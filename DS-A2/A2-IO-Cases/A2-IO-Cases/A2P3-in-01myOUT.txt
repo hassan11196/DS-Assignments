@@ -1,0 +1,175 @@
+
+Hour : 1
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 530(Seconds) or 8.83333(Minutes)
+*****************************************************************
+
+Hour : 2
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 1125(Seconds) or 18.75(Minutes)
+*****************************************************************
+
+Hour : 3
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 1720(Seconds) or 28.6667(Minutes)
+*****************************************************************
+
+Hour : 4
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 2315(Seconds) or 38.5833(Minutes)
+*****************************************************************
+
+Hour : 5
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 2893(Seconds) or 48.2167(Minutes)
+*****************************************************************
+
+Hour : 6
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 3488(Seconds) or 58.1333(Minutes)
+*****************************************************************
+
+Hour : 7
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 4083(Seconds) or 68.05(Minutes)
+*****************************************************************
+
+Hour : 8
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 4678(Seconds) or 77.9667(Minutes)
+*****************************************************************
+
+Hour : 9
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 5273(Seconds) or 87.8833(Minutes)
+*****************************************************************
+
+Hour : 10
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 5851(Seconds) or 97.5167(Minutes)
+*****************************************************************
+
+Hour : 11
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 6446(Seconds) or 107.433(Minutes)
+*****************************************************************
+
+Hour : 12
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 7041(Seconds) or 117.35(Minutes)
+*****************************************************************
+
+Hour : 13
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 7636(Seconds) or 127.267(Minutes)
+*****************************************************************
+
+Hour : 14
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 8231(Seconds) or 137.183(Minutes)
+*****************************************************************
+
+Hour : 15
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 8809(Seconds) or 146.817(Minutes)
+*****************************************************************
+
+Hour : 16
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 9404(Seconds) or 156.733(Minutes)
+*****************************************************************
+
+Hour : 17
+
+Number of Customers : 17
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 306(Seconds) or 5.1(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 9999(Seconds) or 166.65(Minutes)
+*****************************************************************
+
+Hour : 18
+
+Number of Customers : 18
+Mean Arrival Time : 207(Seconds) or 3.45(Minutes)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 10594(Seconds) or 176.567(Minutes)
+*****************************************************************
+
+Overall : 
+
+Numeber of Total Customers : 314
+
+Arrival Rate : 0.00416667(no. of customers / sec) or 15(no. of customers / hours)
+Avg Service Time Minimum : 3(minutes)
+Avg Service Time Maximium : 8(minutes)
+Total Time : 64800(Seconds) or 1080(Minutes)18(Hours)
+Mean Wait Time : 289(Seconds) or 4.81667(Minutes)
+Mean Service Time : 241(Seconds) or 4.01667(Minutes)
+Mean Total Time Per Customer 5562(Seconds) or 92.7(Minutes)
+POS utilization Time :  1
